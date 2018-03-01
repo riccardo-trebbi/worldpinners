@@ -8,9 +8,11 @@ background: "/img/tropical-north.png"
 When we, people of the northern emisphere, think of the north, we always picture images of coldness, snowy winters and warm chocolates sipped in front of the fire... So even saying "tropical north" it sounded very weird to us. But here is the land of the opposites, so here North means sunny and humid, tropical jungles, crocodiles and jellyfishes!
 
 So back to our story, we left our two beloved friends and travel mates, the Froio brothers, in Alice Springs (the city in the middle of Australia). They wanted to find a quick and good payed job and Alice Springs was often a gossiped destination among backpackers as the land of the fast money. The reason is very simple: this place is hundreds of kms far from anywhere interesting and on top of that it's not exactly safe, so nobody wants to work here and labour is highly requested.
-So we had said goodbye to eachother, obviously celebrating in the most Australian way possible: a couple of beers and some sausages on the BBQ!
+So we had said goodbye to eachother, obviously celebrating in the most Australian way possible: a couple of beers and some sausages on the barbie!
 
+![Alice Springs Welcome](https://farm8.staticflickr.com/7744/26771705612_16ec8cc5a3_c.jpg){:class="img-fluid"}
 
+![Alice Springs BBQ](https://farm8.staticflickr.com/7121/26831492556_1630906a0e_c.jpg){:class="img-fluid"}
 
 And the road trip started again but this time it was only me and Yurika, our little van and the long and empty road ahead of us...
 To be honest, we were a bit scared of breaking down in the middle of the desert and having no friends there to help us, but on the other side we were also excited to travel with our own rhythms and just following our own desires.
@@ -21,42 +23,50 @@ This is the reason why we have arrived to Katherine (the next city after Alice S
 One was a service station that is proud to be the best place in the world for UFO sightings. Could also be true but it's probably just another marketing strategy to make a very boring place into an mildly interesting one.
 The other, far more exciting, was Devil's Marble, a place filled with rock stones with an unusual round shape. Most of them are in an odd position that make you think how did they get there (the reason is just slow erosion, so nobody ever moved them!). This place was sacred for indigenous Australians and was a gathering place for important ceremonies.
 
+![Ufo Sign](https://farm8.staticflickr.com/7638/26865297605_d671c0352d_c.jpg){:class="img-fluid"}
 
+![Devils Marble](https://farm8.staticflickr.com/7494/26259770244_a59ec36810_c.jpg){:class="img-fluid"}
 
 In the meantime, while getting to Katherine, the landscape was starting to change dramatically. Some trees here and there, some strips of green and long grass and sometimes even a small stream filled with birds drinking and refreshing themselves. We were entering the tropics!
 And what better tropical destination than a natural pool in the middle of the jungle?
 This is Mataranka Hot Springs, one of the best places we met along the road and probably a real paradise on earth!
 
+![Mataranka Springs](https://farm8.staticflickr.com/7220/26772936912_356783e40f_c.jpg){:class="img-fluid"}
 
-
+![Thermite Tower](https://farm8.staticflickr.com/7187/26593649450_8daa41a1f4_c.jpg){:class="img-fluid"}
 
 The sand tower that's bigger than Yurika is a thermite cathedral. Basically it's an animal-made surprising structure that hosts a whole hierarchy of thermites. Starting from the bottom, in the largest chamber there is the Queen, then over the Queen the workers, then the soldiers, and so on.
 
 After the Mataranka stop, it just got better and better. Finally water wasn't rare anymore but everywhere there was an abundance of rivers, lakes, tropical jungles and refreshing opportunities.
 We went straight to the Litchfield National Park where we didn't spare a chance to dive into every stream of water after the days spent in the desert.
 
+![Litchfield 1](https://farm8.staticflickr.com/7218/26865462085_ed3f501ab4_c.jpg){:class="img-fluid"}
 
-
-
+![Litchfield 2](https://farm8.staticflickr.com/7078/26772780742_6a62c757c0_c.jpg){:class="img-fluid"}
 
 
 It was at Litchfield that we first encountered the "controlled fires", so fires that are specifically lit by forest rangers in order to burn the "fuel" of the bush. The fuel of the bush is anything from dead trees, dry grass or wood that can easily catch fire during the summer and generate much bigger and uncontrollable fires.
 We had heard about this but didn't really know if those were controlled or uncontrolled fire, so driving our van with smoke everywhere was a bit scary at first!
 
+![Controlled Fires](https://farm8.staticflickr.com/7354/26798669161_dbc0d33f2b_c.jpg){:class="img-fluid"}
 
+![Spider Web](https://farm8.staticflickr.com/7347/26261049223_2fb1e2118c_c.jpg){:class="img-fluid"}
 
 The Stuart Hwy, the long road connecting the deep south to the far north, came to an end when we arrived to Darwin the next morning. We were welcomed by a hot sun, a fair bit of humidity and a feeling of a relaxed and chilled out town. It's relatively small, with probably only one or two interesting streets. Probably the most exciting thing to do here is having a swim, but unfortunately you can't because of all the jellyfishes that during the summer swim themselves along the beaches and threaten you to kill you with their deadly venom!
 The water is crystal clear and truly attracts you to go in but you definitely should resist the temptation...
 
 
+![Darwin 1](https://farm8.staticflickr.com/7458/26592695260_812783a19c_c.jpg){:class="img-fluid"}
+
+![Jellyfish sign](https://farm8.staticflickr.com/7208/26259987804_bc1f19635a_c.jpg){:class="img-fluid"}
 
 
 
 
 We actually really liked the city, even if it doesn't have much to offer. It's relaxed and it doesn't give you anxiety or stress just by driving on the road, unlike other capitals like Sydney or Melbourne. We enjoyed our time just by walking along the ocean parade, going to museums or having a swim (in the artificial lake!). The last night we even went to a Thai festival that was taking place in the city right on those days.
-By the way, Darwin was completely destroyed on Christmas Eve of 1974 and had to be re built almost from scratch! This is a region highly affected by this type of climate catastrophies so the perfect sunny weather always comes to a cost!
+By the way, Darwin was completely destroyed on Christmas Eve of 1974 and had to be re built almost from scratch! This is a region highly affected by this type of climate catastrophies so the perfect sunny weather always comes for a cost!
 
+![Festival 1](https://farm8.staticflickr.com/7061/26866438705_ba762f127a_c.jpg){:class="img-fluid"}
 
-
-
+![Festival 2](https://farm8.staticflickr.com/7183/26797996151_d6c144f726_c.jpg){:class="img-fluid"}
 
