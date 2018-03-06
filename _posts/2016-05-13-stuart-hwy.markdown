@@ -10,7 +10,7 @@ The Stuart Highway is the Australia splitter, the road that cuts the country ver
 traverses three different climate regions and is 2800km long, from South to North.
 It is an extraordinary road trip, full of sceneries that we had never seen in our life, but it's a trip that... we weren't supposed to do.
 
-![Stuart Hwy Map](/img/stuart-hwy-map.png){:class="img-fluid"}
+![Stuart Hwy Map](img/stuart-hwy-map.png){:class="img-fluid"}
 
 Why? Because our plan was to cut through the Nullarbor straight to Western Australia, so that we could have found a last job before going back to Italy. Australia is as wonderful as expensive, so we were quickly running out of money during this trip. The idea of coming back home full of money to brag with friends and family was so tempting!
 Too bad that plans are meant to be broken. While we were driving around Adelaide in a sunny afternoon we thought: "What if we get to Perth, yes, but going through the North?", "If we stay really tight and try not to spend too much we can do it!", and so on with other nonsense thinking...
