@@ -45,7 +45,7 @@ About half the houses here are built under the ground, really like a mine. This 
 
 The whole city perimeter is packed of mines and there are thousands of deep holes everywhere. They were dug to look for opals and then never filled up because no money would come from filling up a hole back. Many signs and people will warn you not to go around at night because a lot tourists had fallen down in these holes and it's very dangerous not to look where you're going here.
 
-![Warning sign mines](/img/dscf4947_coober_pedy.jpg){:class="img-fluid"}
+![Warning sign mines](img/dscf4947_coober_pedy.jpg){:class="img-fluid"}
 
 The next day we hit the road again: 5th gear that never changes for hours, walkie-talkie on one hand and ice-cold coke on the other. After an entire day of driving, when we were almost falling asleep by the boredom of the road, finally the Northern Territory border popped up out of nowhere and in the middle of nowhere.
 We decided we would call it a day and camped right there in the rest area nearby. We had dinner with a german guy with whom we shared our adventures talk, and we also met an Australian man who was cycling with his bike on the Stuart Highway.

@@ -7,7 +7,7 @@ background: "/img/bg-karijini.png"
 
 Tropical Australia was about to end. Landscape was changing already after leaving Broome and through our van windows we could start to see desert lands again, small bushes and a lot of red sand.
 
-![Broome Gero Roadmap](/img/broome-geraldton-map.png){:class="img-fluid"}
+![Broome Gero Roadmap](img/broome-geraldton-map.png){:class="img-fluid"}
 
 We had a map of Australia hanging inside the van, reminding us where we were going, so the idea we had at the time was that Western Australia coast was exactly the same as the East Coast but with maybe less towns and less civilization.
 But instead Western Australi was nothing but DESERT for probably 80% of the land! East Coast is muuuch more green compared to here!

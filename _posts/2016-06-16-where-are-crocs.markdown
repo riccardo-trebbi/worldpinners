@@ -9,7 +9,7 @@ We left Darwin on an April night, determined to reach the first rest area along 
 
 Luckily we had no problem reaching our place that night and we could a get a good night sleep, to prepare ourselves to the next big day. Next morning, we were back on the road! But this time the sun was on our back so we were definitely going West!
 
-![Darwing Broome road map](/img/darwin-broome-map.png){:class="img-fluid"}
+![Darwing Broome road map](img/darwin-broome-map.png){:class="img-fluid"}
 
 The road is impressively even less populated than the Stuart Hwy. Just a few other cars are met during the day, and most of them are trucks or campervans like ours. Some could argue that the landscape is not interesting at all, but every single view was particular and new for us, interesting in its own way. The vast sky, the endless and inhabited green and yellow lands, rarely interrupted by birds looking for the already elusive water.
 
