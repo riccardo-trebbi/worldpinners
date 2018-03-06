@@ -31,8 +31,8 @@ layout: default
 
             {% for post in site.posts %}
             <div class="col-lg-4 col-md-6">
-                <a href="{{post.url}}" class="card mb-4 post-preview">
-                    <img class="card-img-top" src="{{post.background}}" alt="Card image cap">
+                <a href="{{post.url | relative_url}}" class="card mb-4 post-preview">
+                    <img class="card-img-top" src="{{post.background | relative_url}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">{{ post.title }}</h5>
                         <div class="card-text">
