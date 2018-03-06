@@ -82,3 +82,18 @@
     });
   </script>
 {% endif %}
+
+{% if page.url contains 'video' %}
+  <script>
+      $('#videoModal').on('show.bs.modal', function (event) {
+          var button = $(event.relatedTarget);
+          var videoName = button.data('video-name');
+          var videoId = button.data('video-id');
+          var modal = $(this);
+          modal.find('.modal-title').text(videoName);
+          modal.find('.embed-responsive-item').attr('src', 'https://www.youtube.com/embed/' + videoId);
+          // modal.find('.modal-body input').val(recipient)
+      })
+  </script>
+{% endif %}
+
