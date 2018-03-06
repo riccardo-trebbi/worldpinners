@@ -21,7 +21,7 @@ baseurl: "worldpinners" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 youtube: "https://www.youtube.com/channel/UCo8WH1V0AGhpGxRt4wIfAyA"
 flickr: "https://www.flickr.com/photos/134125734@N08/"
-github_username:  jekyll
+github_username:  riccardotrebbi89
 author: Riccardo Trebbi
 
 # Build settings
