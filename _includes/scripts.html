@@ -92,8 +92,11 @@
           var modal = $(this);
           modal.find('.modal-title').text(videoName);
           modal.find('.embed-responsive-item').attr('src', 'https://www.youtube.com/embed/' + videoId);
-          // modal.find('.modal-body input').val(recipient)
-      })
+      });
+      $('#videoModal').on('hidden.bs.modal', function (e) {
+          var modal = $(this);
+          modal.find('.embed-responsive-item').attr('src', '');
+      });
   </script>
 {% endif %}
 

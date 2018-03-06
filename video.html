@@ -1,0 +1,33 @@
+---
+layout: page
+title: Video
+background: '/img/bg-video.png'
+---
+
+<div class="row">
+    {% for video in site.data.video %}
+    <div class="col-sm-6">
+        <div class="video-preview mb-4"
+             data-toggle="modal" data-target="#videoModal"
+             data-video-name="{{ video.name }}" data-video-id="{{ video.youtube_id }}"
+             style="background-image: url({{ video.thumbnail }});">
+            <div class="overlay">
+                <h5 class="title">{{ video.name }}</h5>
+                <h6 class="subtitle">{{ video.location }}</h6>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-0">
+                <div class="embed-responsive embed-responsive-4by3">
+                    <iframe class="embed-responsive-item" src=""></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
