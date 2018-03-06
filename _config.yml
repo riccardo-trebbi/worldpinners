@@ -17,7 +17,7 @@ title: WorldPinners
 email: riccardo.trebbi2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Our Adventures and Roots
-baseurl: "worldpinners" # the subpath of your site, e.g. /blog
+baseurl: "/worldpinners" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 youtube: "https://www.youtube.com/channel/UCo8WH1V0AGhpGxRt4wIfAyA"
 flickr: "https://www.flickr.com/photos/134125734@N08/"
