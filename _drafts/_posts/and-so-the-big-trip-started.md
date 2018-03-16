@@ -15,9 +15,10 @@ This post will tell the story of this part of the trip, mainly in the East Coast
 
 We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
 
-![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")
+_  
+![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")Noosa Heads, QLD_
 
-Riki prende le sue prime onde, sebbene non ci siano prove fotografiche in merito. Questo è uno dei posti migliori al mondo per surfare e la gente arriva da tutt’Australia per le onde spettacolari di questo piccolo paesino del Queensland. L’atmosfera è quella rilassata di una città costiera e turistica. Il centro è piccolo ma molto piacevole, pieno di localini, ristoranti e negozi di surf (ovviamente).
+Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops. 
 
 IMG_1309
 
