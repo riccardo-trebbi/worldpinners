@@ -16,7 +16,7 @@ This post will tell the story of this part of the trip, mainly in the East Coast
 We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
 
 _  
-![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")Noosa Heads, QLD -_ Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops. 
+![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD") _Noosa Heads, QLD_ - Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops.
 
 ![](https://farm2.staticflickr.com/1460/25843896516_5e51d145e4_c.jpg)
 
@@ -32,7 +32,7 @@ _Treachery Bay, NSW_
 
 ![](https://farm2.staticflickr.com/1720/25844127406_d7dd10501f_c.jpg)
 
-_Seal Rocks, NSW_ – While we were waling to the lighthouse we were lucky enough to see dolphins swimming freely in the ocean. They get very close to the beach and some of them like to surf the waves in the same way we do. 
+_Seal Rocks, NSW_ – While we were waling to the lighthouse we were lucky enough to see dolphins swimming freely in the ocean. They get very close to the beach and some of them like to surf the waves in the same way we do.
 
 ![](https://farm2.staticflickr.com/1488/25569515700_72e3c0b29c_c.jpg)
 
