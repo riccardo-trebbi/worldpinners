@@ -11,7 +11,7 @@ We drove again on the Pacific Highway towards Sydney, stopping from time to time
 
 This post will tell the story of this part of the trip, mainly in the East Coast.
 
-![](/uploads/2018/03/16/map-gayndah-melbourne.png)
+![](img/map-gayndah-melbourne.png)
 
 We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
 
