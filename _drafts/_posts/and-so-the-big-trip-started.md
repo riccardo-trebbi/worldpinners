@@ -78,14 +78,14 @@ One night we parked our van in what we though was a secluded place in front of t
 
 _Jervis Bay National Park_ – Some kangaroos have completely lost their fear for humans and they let people pet and feed them!
 
-IMG_1508
+![](https://farm2.staticflickr.com/1486/25845344586_86ef37cb1b_c.jpg)
 
-Phillip Island – Siamo pure andati a visitare la famosa Phillip Island, dove tra le altre cose, c’è il circuito di motoGP. L’unica cosa che potevamo fare, privi di ogni mezzo motorizzato da corsa, era noleggiare dei kart e sfidarci su una piccola riproduzione del circuito vero.
+_Phillip Island_ – We even visited Philip Island, famous for its MotoGP circuit. The only thing we could do there was renting some karts and challenging each other on a small recreation of the real circuit.
 
-IMG_1530
+![](https://farm2.staticflickr.com/1698/25570826470_381869d7e3_c.jpg)
 
-Phillip Island National Park – Qui ci sono delle onde stupende per chi sa surfare bene, molto meno belle per chi ha appena cominciato! Riki è stato ore nell’acqua senza prendere nemmeno un’onda.
+_Phillip Island National Park_ – There are marvellous waves here if you can seriously surf, less fun if you just started. Riki spent hours in the water without catching a single wave.
 
-IMG_1543
+![](https://farm2.staticflickr.com/1590/25570835180_4ba0b8720e_c.jpg)
 
-Phillip Island National Park – Sebbene l’uscita in surf non sia andata benissimo, il tramonto è stato comunque emozionante e le luci uniche.
+_Phillip Island National Park_ – The surfing might have not been successful but the sunset was unbelievably beautiful. This peace, this lights and these sounds were all what we came here in Australia for.
