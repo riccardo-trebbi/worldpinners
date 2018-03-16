@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/and-so-the-big-trip-started.md
 hide_body: false
 fields:
 - type: text
