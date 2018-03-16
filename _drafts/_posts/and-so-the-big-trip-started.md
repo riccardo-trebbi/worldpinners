@@ -16,39 +16,37 @@ This post will tell the story of this part of the trip, mainly in the East Coast
 We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
 
 _  
-![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")Noosa Heads, QLD_
+![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")Noosa Heads, QLD -_ Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops. 
 
-Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops. 
+![](https://farm2.staticflickr.com/1460/25843896516_5e51d145e4_c.jpg)
 
-IMG_1309
+_Lennox Head, NSW_
 
-Lennox Head, NSW
+![](https://farm2.staticflickr.com/1697/25750629452_9b9b01b7b5_c.jpg)
 
-IMG_1313
+![](https://farm2.staticflickr.com/1661/25774979561_141b5d53bd_c.jpg)
 
-IMG_1316
+![](https://farm2.staticflickr.com/1628/25870091405_419a4e2dd9_c.jpg)
 
-IMG_1318
+_Treachery Bay, NSW_
 
-Treachery Bay, NSW
+![](https://farm2.staticflickr.com/1720/25844127406_d7dd10501f_c.jpg)
 
-Dolphins
+_Seal Rocks, NSW_ – While we were waling to the lighthouse we were lucky enough to see dolphins swimming freely in the ocean. They get very close to the beach and some of them like to surf the waves in the same way we do. 
 
-Seal Rocks, NSW – Mentre camminavamo verso il faro abbiamo avuto la fortuna di vedere un branco di delfini nuotare nell’oceano. Arrivano davvero molto vicini alla costa e nuotano anche in acque molto basse. Alcuni si divertivano anche a “surfare” le onde.
+![](https://farm2.staticflickr.com/1488/25569515700_72e3c0b29c_c.jpg)
 
-Funnel Web
+Still at Seal Rocks, we stopped for our usual pasta lunch, when we spotted this "little" spider near our table, half hidden between the leaves. Too bad it was the most dangerous spider in Australia: the funnel web spider. One single bite could be enough to kill you!
 
-Sempre a Seal Rocks, ci siamo fermati per la nostra quotidiana pasta del mezzogiorno, quando abbiamo scovato questo “piccolo” ragnetto che si nascondeva tra le foglie. Peccato che fosse il ragno più pericoloso d’Australia: il Funnel Web Spider. Un morso può essere fatale!
+We didn't want to kill him but at the same time, we didn't even want to die, so we quickly decided to move all our stuff and have lunch somewhere else. Five minutes later, while we were still packing, mother nature decided to help us: a kookaburra (typical Australian bird) nosedived right on there and swallowed the poor spider. An important lesson on the food chain was taught that day: you can be scary and dangerous but you are never invincible.
 
-Indecisi sul da farsi, ma nemmeno volendolo uccidere, ci siamo limitati a sistemare in fretta tavoli e sedie, pronti per ripartire. Neanche dieci minuti dopo che continuavamo a tenerlo d’occhio però madre natura ci ha dato una lezione sulla catena alimentare: un kookaburra (uccello tipico australiano) è volato in picchiata e se l’è ingoiato, probabilmente attirato dai nostri sguardi. Insomma per insegnarci che per quanto tu sia pericoloso non sei mai invincibile.
+Thanks Kookaburra friend!
 
-Grazie amico!
+![](https://farm2.staticflickr.com/1602/25569524000_572d32ba1a_c.jpg)
 
-Kookaburra
+![](https://farm2.staticflickr.com/1495/25749788152_4077a1d52a_c.jpg)
 
-Nelson Bay
-
-IMG_1368
+![](https://farm2.staticflickr.com/1720/25870723445_6537dd72f2_c.jpg)
 
 Nelson Bay, NSW
 
