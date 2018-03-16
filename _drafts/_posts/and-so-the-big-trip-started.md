@@ -13,11 +13,11 @@ This post will tell the story of this part of the trip, mainly in the East Coast
 
 ![](/uploads/2018/03/16/map-gayndah-melbourne.png)
 
-Devo dire che la vanlife ci piace molto. Mare ogni giorno, camminate in parchi nazionali, relax per me e surf per Riki. Ci laviamo nelle docce pubbliche vicino alle spiagge e dormiamo dove capita, che sia una rest area sull’autostrada o un parcheggio lontano dalle case.
+We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
 
-IMG_1296
+![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD")
 
-Noosa Heads, QLD – Riki prende le sue prime onde, sebbene non ci siano prove fotografiche in merito. Questo è uno dei posti migliori al mondo per surfare e la gente arriva da tutt’Australia per le onde spettacolari di questo piccolo paesino del Queensland. L’atmosfera è quella rilassata di una città costiera e turistica. Il centro è piccolo ma molto piacevole, pieno di localini, ristoranti e negozi di surf (ovviamente).
+Riki prende le sue prime onde, sebbene non ci siano prove fotografiche in merito. Questo è uno dei posti migliori al mondo per surfare e la gente arriva da tutt’Australia per le onde spettacolari di questo piccolo paesino del Queensland. L’atmosfera è quella rilassata di una città costiera e turistica. Il centro è piccolo ma molto piacevole, pieno di localini, ristoranti e negozi di surf (ovviamente).
 
 IMG_1309
 
