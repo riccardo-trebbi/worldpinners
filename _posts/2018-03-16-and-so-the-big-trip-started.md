@@ -11,14 +11,13 @@ We drove again on the Pacific Highway towards Sydney, stopping from time to time
 
 This post will tell the story of this part of the trip, mainly in the East Coast.
 
-![](img/map-gayndah-melbourne.png)
+![](img/map-gayndah-melbourne.png){:class="img-fluid"}
 
-We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.
+We have to say, we really love vanlife. Swimming in the ocean, walking in the National Parks, relaxing for me and surfing (or at least trying to) for Ricky. We usually wash ourselves in the public showers that are usually next to the beach e we sleep where we are, being that a rest area on the highway or a secluded parking on a residential suburb.  
+  
+![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD"){:class="img-fluid"} _Noosa Heads, QLD_ - Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops.
 
-_  
-![Noosa Heads](https://farm2.staticflickr.com/1490/25851035963_2272c09a9a_c.jpg "Noosa Heads, QLD") _Noosa Heads, QLD_ - Riki finally catches his first waves here although there are no photographic proofs. This is one of the best places to surf and people come from all over the world for the spectacular waves of this little Queensland town. There is a chill-out atmosphere, typical of a touristic beach town. The city centre is small but very nice, full of small restaurant, cafes and (of course) surf shops.
-
-![](https://farm2.staticflickr.com/1460/25843896516_5e51d145e4_c.jpg)
+![](https://farm2.staticflickr.com/1460/25843896516_5e51d145e4_c.jpg){:class="img-fluid"}
 
 _Lennox Head, NSW_
 
