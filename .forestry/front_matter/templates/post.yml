@@ -1,0 +1,24 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  default: post
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: permalink
+  label: Permalink
+- type: text
+  label: Background
+  name: background
+- type: text
+  label: Date
+  name: date
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
