@@ -48,35 +48,35 @@ Thanks Kookaburra friend!
 
 ![](https://farm2.staticflickr.com/1720/25870723445_6537dd72f2_c.jpg)
 
-Nelson Bay, NSW
+_Nelson Bay, NSW_
 
-IMG_1377
+![](https://farm2.staticflickr.com/1656/25749828242_f02c195664_c.jpg)
 
-Una delle poche cose che il nostro van non può ospitare è la lavatrice, per cui si va in quelle a gettoni quando si raggiungono delle città.
+We tried to equip our van with as many things as possible to make it similar to a normal house, but we couldn't fit a laundry machine. Once in a while we have to stop at the laundrettes when we pass through towns.
 
-Jervis Bay National Park
+![](https://farm2.staticflickr.com/1501/25870769125_56ac972df8_c.jpg)
 
-IMG_1394
+![](https://farm2.staticflickr.com/1692/25570128590_54206a52ed_c.jpg)
 
-IMG_1398
+![](https://farm2.staticflickr.com/1581/25844818926_55c9c3174f_c.jpg)
 
-Jervis Bay National Park – Yurika impara a cavalcare le onde!
+_Jervis Bay National Park_ – Yurika learns how to body surf!
 
-IMG_1409
+![](https://farm2.staticflickr.com/1467/25844827646_02d8269a27_c.jpg)
 
-IMG_1413
+![](https://farm2.staticflickr.com/1706/25775803391_b76d335e3c_c.jpg)
 
-IMG_1415
+![](https://farm2.staticflickr.com/1470/25844849406_9f5c828f94_c.jpg)
 
-IMG_1416
+![](https://farm2.staticflickr.com/1583/25775828711_36a25956fa_c.jpg)
 
-Una sera abbiamo parcheggiato il van in un posto desolato davanti alla spiaggia, salvo poi scoprire che era in corso una festa di spagnoli e/o sudamericani. Tutti ubriachissimi, musica alta, e tende sulla spiaggia. Il mattino seguente abbiamo fatto colazione guardando l’oceano, e mentre loro si svegliavano ancora rintronati, degli australiani erano già in giro in canoa con le prime luci del sole!
+One night we parked our van in what we though was a secluded place in front of the beach. Soon enough we found out there was a big party going on, full of overseas people, mostly Spanish and South Americans. They were all very drunk with loud music and more than 20 tents on the beach. The next morning we had breakfast on the beach and while they were trying to wake up hung over, some local Aussies were already paddling their canoes in the ocean!
 
-IMG_1427
+![](https://farm2.staticflickr.com/1480/25844891146_6220b92db5_c.jpg)
 
-Jervis Bay
+![](https://farm2.staticflickr.com/1508/25570403900_34b9c5c8fc_c.jpg)
 
-Jervis Bay National Park – Alcuni canguri hanno completamente perso il naturale istinto di paura nei confronti degli uomini e si fanno accarezzare nonché cibare da tutti i passanti!
+_Jervis Bay National Park_ – Some kangaroos have completely lost their fear for humans and they let people pet and feed them!
 
 IMG_1508
 
