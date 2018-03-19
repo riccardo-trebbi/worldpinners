@@ -1,0 +1,17 @@
+a.post-preview {
+  &:hover {
+    box-shadow: 0 10px 15px -10px rgba(30,45,62,.21), 0 5px 40px -10px rgba(31,44,60,.1);
+    text-decoration: none;
+  }
+  .card-title {
+    color: $gray-700;
+    font-size: 16px;
+    letter-spacing: normal;
+  }
+  .card-text {
+    color: $gray-700;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 300;
+  }
+}

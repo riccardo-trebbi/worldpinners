@@ -60,9 +60,12 @@
   -o-background-size: cover;
   background-size: cover;
 }
+@mixin cursive-font() {
+  font-family: 'Dancing Script', cursive;
+}
 @mixin serif-font() {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Josefin Slab', serif;
 }
 @mixin sans-serif-font() {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Oswald', sans-serif;
 }

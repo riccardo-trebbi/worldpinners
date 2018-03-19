@@ -35,9 +35,9 @@ layout: default
                     <img class="card-img-top" src="{{post.background | relative_url}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">{{ post.title }}</h5>
-                        <div class="card-text">
+                        <p class="card-text">
                             {{ post.excerpt | strip_html | truncatewords: 15 }}
-                        </div>
+                        </p>
                     </div>
                 </a>
             </div>

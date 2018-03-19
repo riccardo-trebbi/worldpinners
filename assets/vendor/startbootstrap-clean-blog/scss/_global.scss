@@ -1,7 +1,7 @@
 // Global styling for this template
 body {
-  color: $gray-900;
-  @include sans-serif-font;
+  color: $gray-700;
+  @include serif-font;
 }
 
 p {
@@ -12,13 +12,16 @@ p {
   }
 }
 
-h1,
+h1 {
+  @include cursive-font;
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
+  font-weight: 400;
   @include sans-serif-font;
 }
 

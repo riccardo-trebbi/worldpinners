@@ -1,21 +1,3 @@
----
----
-
-a.post-preview {
-  &:hover {
-    box-shadow: 0 10px 15px -10px rgba(30,45,62,.21), 0 5px 40px -10px rgba(31,44,60,.1);
-    text-decoration: none;
-  }
-  .card-title {
-    font-size: 18px;
-    font-weight: 400;
-  }
-  .card-text {
-    font-size: 14px;
-    font-weight: 300;
-  }
-}
-
 .video-preview {
   -webkit-background-size: cover;
   background-size: cover;
